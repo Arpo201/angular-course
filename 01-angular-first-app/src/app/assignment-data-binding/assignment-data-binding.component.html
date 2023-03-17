@@ -1,0 +1,7 @@
+<input 
+    type="text"
+    [(ngModel)]="username"
+    (input)="onType($event)"
+    /> <!-- String interpoletion -->
+<button type="button" class="btn btn-primary" [disabled]="!canClear" (click)="username=''">clear</button>
+<p>Your username is {{ username }}</p>  <!-- String interpoletion -->

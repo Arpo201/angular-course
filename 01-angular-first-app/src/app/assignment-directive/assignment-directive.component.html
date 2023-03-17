@@ -1,0 +1,10 @@
+<button *ngIf="!isDisplay; else: createBtn" class="btn btn-primary" (click)="this.isDisplay = !this.isDisplay">Display Details</button>
+<ng-template #createBtn>
+    <button class="btn btn-primary" (click)="log()">Create</button>
+</ng-template>
+<p *ngIf="isDisplay">Secret Password = tuna</p>
+<p 
+    *ngFor="let timestamp of timestampsArray; let i = index"
+    [ngStyle]="{backgroundColor: i >= 4 ? 'blue' : 'none'}"
+    [ngClass]="{moreThan5: i >= 4}"
+>{{ timestamp }}</p>
