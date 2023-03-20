@@ -2,7 +2,7 @@
 
 **Course name:** [Angular - The Complete Guide (2023 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
-**Instructor: [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)**
+**Instructor:** [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
 
 | Project | Description |
 | --- | --- |
@@ -17,4 +17,4 @@ Now, I’m learning this course and next,
 
 [Angular with NodeJS - The MEAN Stack Training Guide | Udemy](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/)
 
-by instructor: **[Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)**
+by instructor: [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
