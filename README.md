@@ -4,6 +4,8 @@
 
 **Instructor:** [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
 
+**Note:** [Document](https://arpo-opsta-workshop.notion.site/AngularJS-4c8009059b70417d82a44024e9cd1716) 
+
 | Project | Description |
 | --- | --- |
 | 01-02-angular-first-app | Directive, Databinding |
