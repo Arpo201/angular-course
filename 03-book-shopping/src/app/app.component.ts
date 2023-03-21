@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = '02-book-shopping';
+  displayCompoName: string = 'recipes';
+
+  onNavigate(compoName: string): void {
+    this.displayCompoName = compoName;
+  }
 }
