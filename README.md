@@ -12,11 +12,4 @@
 | 03-book-shopping | Mini-project practice Directive, Databinding |
 | 04-debugging | Use inspect mode in google chrome debug |
 | 05-cmp-databinding-start | Sharing-data between child/parent and local reference |
-
-Now, I’m learning this course and next,
-
-[NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) | Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/)
-
-[Angular with NodeJS - The MEAN Stack Training Guide | Udemy](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/)
-
-by instructor: [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
+| 07-directives-start | Create own directive |
